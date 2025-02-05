@@ -1,2 +1,2 @@
-# acidentes_transito_2024
-Ddos da PRF acidentes de trânsito do ano de 2024.
+# PRF - Acidentes de Trânsito 2024
+OBJETIVO: Mostrar estatísticas gerais sobre os acidentes e suas relações com as condições metereológicas, fases do dia, tipo de pista e etc.
